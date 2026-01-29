@@ -22,3 +22,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sta2026&show_icons=true)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sta2026&show_icons=true)
+
+## 🧑‍💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sta2026&layout=compact)
+
